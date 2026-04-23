@@ -1,0 +1,11 @@
+.env
+.env.local
+.env.development
+.env.production
+node_modules
+.next/
+.env
+.clerk/
+dist/
+build/
+*.log
